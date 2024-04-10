@@ -1,0 +1,1 @@
+VBoxManage convertfromraw --format vmdk mach.img mach.vmdk

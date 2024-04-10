@@ -1,0 +1,2 @@
+MACHINENAME=test-pc
+VBoxSDL --startvm $MACHINENAME

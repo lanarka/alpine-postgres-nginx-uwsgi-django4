@@ -1,0 +1,1 @@
+xz -9 -T0 -k mach.img
